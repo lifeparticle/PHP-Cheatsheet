@@ -1,2 +1,7 @@
-# PHP-Cheatsheet
-PHP-Cheatsheet
+# Installations
+
+## macOS
+
+```shell
+brew install php
+```
