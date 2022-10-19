@@ -10,6 +10,6 @@ brew install symfony-cli/tap/symfony-cli
 # Create New Symfony Applications
 
 ```shell
-symfony new --webapp my_project
+symfony new --webapp test_symfony
 symfony server:start
 ```
